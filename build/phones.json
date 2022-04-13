@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Apple Iphone 12",
+    "price": "800",
+    "url": "/phones/1.png",
+    "article": "11111",
+    "color": "blue"
+  },
+  {
+    "name": "Apple Iphone XR",
+    "price": "450",
+    "url": "/phones/2.png",
+    "article": "22222",
+    "color": "red"
+  },
+  {
+    "name": "Apple iPhone 13 Pro",
+    "price": "900",
+    "url": "/phones/3.png",
+    "article": "33333",
+    "color": "white"
+  },
+  {
+    "name": "Apple Iphone 13 Pro Max",
+    "price": "1000",
+    "url": "/phones/4.png",
+    "article": "44444",
+    "color": "blue"
+  },
+  {
+    "name": "Apple Iphone 12",
+    "price": "750",
+    "url": "/phones/5.png",
+    "article": "55555",
+    "color": "white"
+  },
+  {
+    "name": "Apple Iphone 11",
+    "price": "500",
+    "url": "/phones/6.png",
+    "article": "66666",
+    "color": "black"
+  },
+  {
+    "name": "Apple Iphone 13 Pro Max",
+    "price": "1000",
+    "url": "/phones/7.png",
+    "article": "44444",
+    "color": "blue"
+  },
+  {
+    "name": "Apple iPhone 12",
+    "price": "200",
+    "url": "/phones/8.png",
+    "article": "88888",
+    "color": "blue"
+  },
+  {
+    "name": "Apple iPhone X",
+    "price": "300",
+    "url": "/phones/9.png",
+    "article": "99999",
+    "color": "black"
+  },
+  {
+    "name": "Apple iPhone 12 Pro",
+    "price": "900",
+    "url": "/phones/10.png",
+    "article": "10000",
+    "color": "pacific blue"
+  }
+]
