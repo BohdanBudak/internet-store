@@ -17,7 +17,8 @@ export default {
         width: '90%',
         height: '250px',
         marginBottom: '20px',
-        marginTop: '15px'
+        marginTop: '15px',
+        objectFit: 'contain',
     },
 
     cardTitle: {
