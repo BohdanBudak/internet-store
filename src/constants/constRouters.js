@@ -3,3 +3,4 @@ export const routes = {
     cart: {name: 'Cart', href: '/cart'},
     favourites: {name: 'Favourites', href: '/favourites'}
 };
+

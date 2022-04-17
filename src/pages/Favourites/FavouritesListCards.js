@@ -14,7 +14,6 @@ function FavouritesListCards(props) {
     const favouriteList = useSelector(state => state.favouriteListReducer.favouriteList);
     const isOpenModal = useSelector(state => state.modalReducer);
     const dispatch = useDispatch();
-    console.log(favouriteList);
 
     const handleToggleModal = () => {
         dispatch(modalActions.showModal());
